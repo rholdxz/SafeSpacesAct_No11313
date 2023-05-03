@@ -8,3 +8,6 @@
 
 ## What does the Safe Spaces Act cover?
 * This law, while being closely related to the Republic Act 7877 or the Anti-Sexiual Harassment Act of 1955, expands the meaning of 'safe spaces' to the public domain-from public places to cyberspaces, from schools to workplaces, and from streets to high-rise buildings.
+* The new law also expands the meaning of sexual harassment and who can be considered as an offender. While the former law limits the definition of offenders to authority figures, the present law recognizes that anyone can be offenders.
+* The law covers all forms of gender-based sexual harassment (GBSH) committed in public spaces, educational or training institutions, workplace, as well as online space
+* GBSH in street and public spaces is defined as act which are committed through any unwanted and uninvited sexual actions.
